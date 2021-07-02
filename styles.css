@@ -1,0 +1,125 @@
+
+body{
+  font-family: 'Lilita One', cursive;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6{
+font-family: "Montserrat-bold"
+}
+
+#title{
+  background-color: #596E79;
+  text-align: left;
+}
+
+.navbar-nav{
+  margin-left: auto;
+}
+
+/* container */
+.container-fluid{
+  padding: 3% 3%;
+}
+
+.title{
+  font-size: 30rem;
+}
+
+/* Heading Section */
+.section-heading{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.Big-Heading{
+  font-family: 'Lilita One', cursive;
+  color: white;
+  font-size: 5rem;
+  line-height: 1.5;
+}
+
+.navbar{
+  padding-bottom: 2.5rem;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+#features{
+  padding: 7% 15%;
+  background-color: #F0ECE3;
+  position: relative;
+}
+
+p{
+  color:#8F8F8F;
+}
+
+/* Testimonial */
+.testimonial-text{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+#testimonials{
+  background-color: #C7B198;
+  color: #fff
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press{
+  background-color: #F0ECE3;
+  padding-bottom: 3%;
+}
+
+.press-logo{
+  width: 15%;
+  margin: 20px;
+}
+
+.publication{
+background-color: #F0ECE3;
+padding: 100px;
+text-align: center;
+}
+
+/* CV section */
+.CV{
+  background-color:#C7B198;
+  color:#fff;
+  padding: 10% 15%;
+}
+.ctas{
+  height: 200px;
+  padding-top: 10px;
+}
+
+/* Contact Section */
+#footer{
+  padding: 7% 15%;
+  background-color: #F0ECE3;
+}
+
+.AA{
+  margin: 2% 2%;
+}
